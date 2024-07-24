@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 Full Stack Web Developer
 -----------------------
-* 🌍  I'm live in Karachi, Pakistan
+* 🌍  I'm live in Untied Kingdom
 * * 🖥️  See my [Portfolio](https://github.com/AhmerAyaz1/Profile)
   
 * 🤝  I'm open to collaborate on interesting projects
